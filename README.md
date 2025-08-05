@@ -41,4 +41,4 @@ To fullfill the requirements of the company to find the total and average sales,
       Objective:Provide a comprehensive view of all key metrics (Total Sales,Average sales,Number of items,Average rating) broken down by different outlet types.
       Chart Type: Matrix Card.   
 7. Screenshots / Demos
-   <img width="1333" height="733" alt="Blinkit_Dashboard" src="https://github.com/user-attachments/assets/d959c27b-7840-4f4b-8988-e2b0f73e6658" />
+   <img width="1298" height="732" alt="Blinkit_Dashboard" src="https://github.com/user-attachments/assets/4fe94bed-f0c8-46e3-bc3f-2552d37be906" />
