@@ -1,3 +1,4 @@
+Blinkit Data Analytics
 1. Project Title / Headline
 Blinkit Grocery: Blinkit Grocery Insights Dashboard A dynamic, interactive data visualization tool built to explore sales details of the company,
 from the data provided in excel by cleaning the data.
