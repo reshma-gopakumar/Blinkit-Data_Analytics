@@ -9,7 +9,7 @@ Total sales by outlet establishment,Sales by outlet,Sales by outlet location,All
 3. Tech Stack
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
 • 📝 Excel – Data transformation and cleaning layer for reshaping and preparing the data.
-• 📑 Table View – Table View in Power BI for creating metrics and simple calculations.
+• 📑 Power BI DAX – DAX in Power BI for creating metrics and simple calculations.
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 4. Data Source
 Data on different grocery stores,their types and locations.The sales in different stores on multiple years.
